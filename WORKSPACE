@@ -1,4 +1,4 @@
-workspace(
+#sudo su && workspace(
     name = "com_google_googleapis",
 )
 
